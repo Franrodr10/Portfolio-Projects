@@ -1,0 +1,4 @@
+Data cleaning and transformation tasks are efficiently executed using Power Query, ensuring the data is prepared for analysis.
+The subsequent step involves modeling data using the Star Schema in Power BI. This schema enables a structured and optimized approach to building data models,
+enhancing performance and analysis capabilities. Once the model is in place, Power BI is leveraged to create interactive and insightful dashboards, making data
+visualization and exploration a seamless process. This integrated approach results in a streamlined and robust data analytics pipeline, improving overall data quality and analysis efficiency.
